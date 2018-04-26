@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1524713266 source:/home/savaga/Workspace/Cpp/MaryLab2/main.cpp
+	<vector>
+	<iostream>
+
